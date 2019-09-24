@@ -1,2 +1,4 @@
 Hi this is jaiprasath h r u start learning git
 Hi I am adding this for reverting the changes I want to be revert
+Adding the changes
+I am adding the changes
